@@ -12,7 +12,7 @@ This privacy policy applies to all information collected through our mobile appl
 Please read this privacy policy carefully, as it will help you make informed decisions about sharing your personal information with us.
 
 
-1. WHAT INFORMATION DO WE COLLECT?
+=> WHAT INFORMATION DO WE COLLECT?
 
 Information collected through our Apps
 
@@ -33,7 +33,7 @@ Moreover, Poolguard app is using different sources (Mining Pools) to provide our
 Note, if you are Pool owner and you think that we are using your Pool data illegally or violating your Terms of Use, please contact us and we will remove your Pool from a Poolguard app and any of our services.
 
 
-2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
+=> WILL YOUR INFORMATION BE SHARED WITH ANYONE?
 
 In Short: We only share information with your consent, to comply with laws, to protect your rights, or to fulfill business obligations.
 
@@ -52,7 +52,7 @@ Business Transfers. We may share or transfer your information in connection with
 With your Consent. We may disclose your personal information for any other purpose with your consent.
 
 
-3. HOW LONG DO WE KEEP YOUR INFORMATION?
+=> HOW LONG DO WE KEEP YOUR INFORMATION?
 
 In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law.
 
@@ -61,27 +61,27 @@ We will only keep your personal information for as long as it is necessary for t
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
 
-4. HOW DO WE KEEP YOUR INFORMATION SAFE?
+=> HOW DO WE KEEP YOUR INFORMATION SAFE?
 
 In Short: We aim to protect your personal information through a system of organizational and technical security measures.
 
 We have implemented appropriate technical and organizational security measures designed to protect the security of any personal information we process. However, please also remember that we cannot guarantee that the internet itself is 100% secure. Although we will do our best to protect your personal information, transmission of personal information to and from our Apps is at your own risk. You should only access the services within a secure environment.
 
 
-5. DO WE COLLECT INFORMATION FROM MINORS?
+=> DO WE COLLECT INFORMATION FROM MINORS?
 
 Our apps and services do not knowingly collect or store any personal information about children under the age of 13.
 
 
 
-6. WHAT ARE YOUR PRIVACY RIGHTS?
+=> WHAT ARE YOUR PRIVACY RIGHTS?
 
 In Short: You may review, change, or terminate your account at any time.
 
 If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, please contact us and we will do our best to solve the problem that you see, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
 
 
-7. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+=> DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
 In Short: Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.
 
@@ -90,14 +90,13 @@ California Civil Code Section 1798.83, also known as the “Shine The Light” l
 If you are under 18 years of age, reside in California, and have a registered account with the Apps, you have the right to request removal of unwanted data that you publicly post on the Apps. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Apps, but please be aware that the data may not be completely or comprehensively removed from our systems.
 
 
-8. DO WE MAKE UPDATES TO THIS POLICY?
+=> DO WE MAKE UPDATES TO THIS POLICY?
 
 In Short: Yes, we will update this policy as necessary to stay compliant with relevant laws.
 
 We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.
 
 
-
-9. HOW CAN YOU CONTACT US ABOUT THIS POLICY?
+=> HOW CAN YOU CONTACT US ABOUT THIS POLICY?
 
 If you have questions or comments about this policy, you may email us at dodyacx@gmail.com
