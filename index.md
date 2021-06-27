@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+Thank you for choosing Poolguard. We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at dodyacx@gmail.com.
 
-You can use the [editor on GitHub](https://github.com/dodyac/privacypolicy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+When you visit our mobile application, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue to use our apps and all your personal information will be automatically totally deleted from the system.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dodyac/privacypolicy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  Using our apps you accept all possible risks related to software usage. Poolguard provides tracking service for your mining rigs, but information that it uses is collected and processed with some delay, so we do not guarantee that you will be notified right away when any accident happen. Please, use CheckPool as an additional tool for monitoring your rigs, the application will try to notify you, but it will not protect rigs from an accident.
+Apps owner does not compensate any irreversible losses.
+App owner is not responsible for any losses suffered as a result of using the application.
